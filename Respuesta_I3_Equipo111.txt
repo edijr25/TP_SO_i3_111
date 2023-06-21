@@ -10,9 +10,16 @@ git merge Acosta
 git push origin main
 
 Responde GAMMA:
-d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
-e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados? No,queda con los ultimos datos actualizados en cada rama
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge? No hubo problemas
 f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+
+git clone -b Lopez https://github.com/edijr25/TP_SO_i3_111.git
+agregamos lo que retornan los comandos ifconfig y date al archivo "Beta.txt"
+git add .
+git commit -m "Gamma punto 8 listo"
+git push origin Lopez
+
 
 Responde ALFA:
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?

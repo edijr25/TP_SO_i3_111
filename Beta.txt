@@ -18,3 +18,26 @@ lo        Link encap:Local Loopback
           RX bytes:6419 (6.4 KB)  TX bytes:6419 (6.4 KB)
 
 mié jun 21 20:21:17 ART 2023
+
+Jimmy Acosta
+eth0      Link encap:Ethernet  HWaddr 08:00:27:c4:9c:80  
+          inet addr:10.0.2.15  Bcast:10.0.2.255  Mask:255.255.255.0
+          inet6 addr: fe80::a00:27ff:fec4:9c80/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:5746 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:3370 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:7595545 (7.5 MB)  TX bytes:271274 (271.2 KB)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:369 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:369 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:27470 (27.4 KB)  TX bytes:27470 (27.4 KB)
+
+Thu Jun 22 01:28:55 CEST 2023
+
+

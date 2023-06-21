@@ -23,3 +23,10 @@ git push origin Lopez
 
 Responde ALFA:
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+
+Alfa: Vasquez Panduro Yober Marlow
+git clone -b Lopez https://github.com/edijr25/TP_SO_i3_111.git
+Lanzamos los comandos ifconfig y date, copiamos y pegamos los datos de los comandos en el archivo beta.txt
+git add .
+git commit -m "Alfa punto 8 listo"
+git push origin Lopez

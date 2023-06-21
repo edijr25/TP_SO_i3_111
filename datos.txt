@@ -5,3 +5,7 @@ Thu Jun 22 00:43:07 CEST 2023
 Yober Marlow Vasquez Panduro
 192.168.1.1
 La hora actual es: 20:07:11.83
+
+Edicilio López
+ 192.168.56.1
+La hora actual es: 20:13:38,95

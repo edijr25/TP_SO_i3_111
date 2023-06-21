@@ -1,0 +1,18 @@
+Responde BETA:
+a-¿Como queda El master después de estos cambios? Queda actualizado con los cambios de las diferentes ramas
+b-¿Beta pudo ver todos los cambios que se realizaron? Si
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+
+git clone -b Acosta https://github.com/edijr25/TP_SO_i3_111.git
+cd TP_SO_i3_Equipo_111
+git checkout main
+git merge Acosta
+git push origin main
+
+Responde GAMMA:
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+
+Responde ALFA:
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
